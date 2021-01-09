@@ -1,0 +1,98 @@
+.navbar {
+    font-family: cursive;
+}
+
+#banner_image {
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.logo {
+    width: 200px;
+    border-radius: 1000px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+#banner_content p {
+    font-family: cursive;
+    margin-top: 30px;
+    font-size: 2rem;
+}
+
+#banner_content a {
+    padding: 10px;
+}
+
+#banner_content a img {
+    width: 40px;
+    margin-top: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.row h2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.text-center {
+    margin-top: 50px;
+}
+
+.text-center h1 {
+    font-family: cursive;
+}
+
+.edu {
+    margin-top: 80px;
+}
+
+.edu1 {
+    margin-top: 33px;
+}
+
+.edu2 {
+    margin-top: 33px;
+}
+
+.thumbnail {
+    font-family: cursive;
+}
+
+.edu3 {
+    margin-top: 107px;
+}
+
+.thumbnail:hover {
+    background-color: burlywood;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.para1 {
+    margin-top: 50px;
+}
+
+.para2 {
+    margin-top: 77px;
+}
+
+.pro2 {
+    margin-top: 57px;
+}
+
+.pro3 {
+    margin-top: 37px;
+}
+
+.int {
+    margin-top: 98px;
+}
+
+.int1 {
+    margin-top: 69px;
+}
